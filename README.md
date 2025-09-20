@@ -1,3 +1,9 @@
+Credentials for lab:
+login - dontsovpl
+password - monday48
+
+_______________________________________
+
 Lab1 Project: VLAN Segmentation and Telnet Access
 Objective
 
